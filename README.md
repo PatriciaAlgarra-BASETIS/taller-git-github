@@ -1,5 +1,3 @@
-Hola cambios 2
+Hola esto es un README
 
-Cambios realizados desde otra rama por otro usuario
-
-Cambios realizados por Patri
+Patri ha escrito esto
